@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @azarafath
+- ✍ Student of Polytechnic State of Semarang
 - 👀 I’m interested in Web and Mobile Apps 
 - 🌱 I’m currently learning Python, Javascript, Dart 
 
