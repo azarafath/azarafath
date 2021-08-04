@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @azarafath
+<h1 align="center">Hi 👋, I'm Zakaria Fathoni</h1>
+
+
 - ✍ Student of Polytechnic State of Semarang
 - 👀 I’m interested in Web and Mobile Apps 
 - 🌱 I’m currently learning Python, Javascript, Dart 
