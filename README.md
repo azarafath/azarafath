@@ -5,8 +5,8 @@
 - 👀 I’m interested in Web and Mobile Apps 
 - 🌱 I’m currently learning Python, Javascript, Dart 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 ### Connect with me:
 
 
