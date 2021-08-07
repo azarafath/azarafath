@@ -22,6 +22,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p align="left">
 <a href="https://github.com/azarafath">
   <img align="left" alt="azarafath" src="https://github-readme-stats.vercel.app/api?username=azarafath&show_icons=true&hide_border=true" />
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azarafath&layout=compact&langs_count=8&hide_border=true"/>
 </a>
 </p>
