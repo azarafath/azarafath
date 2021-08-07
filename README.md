@@ -5,15 +5,13 @@
 - 👀 I’m interested in Web and Mobile Apps 
 - 🌱 I’m currently learning Python, Javascript, Dart 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 ### Connect with me:
-
 
 [<img align="left" alt="Ahmad Zakaria Fathoni | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC5NX9VsJTwhvukA6IZ27rVQ?view_as=subscriber "Ahmad Zakaria Fathoni")
 [<img align="left" alt="Ahmad Zakaria Fathoni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ahmad-zakaria-fathoni-42316420b "Ahmad Zakaria Fathoni")
 [<img align="left" alt="@zakaria_f28 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zakaria_f28 "@zakaria_f28")
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 
 ### Languages and Tools:
 
