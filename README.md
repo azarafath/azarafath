@@ -11,7 +11,6 @@
 [<img align="left" alt="Ahmad Zakaria Fathoni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ahmad-zakaria-fathoni-42316420b "Ahmad Zakaria Fathoni")
 [<img align="left" alt="@zakaria_f28 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zakaria_f28 "@zakaria_f28")
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 
 ### Languages and Tools:
 
@@ -19,7 +18,7 @@
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br />
 <br />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 <p align="left">
 <a href="https://github.com/azarafath">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azarafath&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
