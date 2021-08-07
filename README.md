@@ -21,8 +21,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 <p align="left">
 <a href="https://github.com/azarafath">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azarafath&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azarafath&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="left" alt="azarafath" src="https://github-readme-stats.vercel.app/api?username=azarafath&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azarafath&layout=compact&langs_count=8&hide_border=true"/>
 </a>
 </p>
