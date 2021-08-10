@@ -1,9 +1,9 @@
 ### Hi there,  I'm Ahmad Zakaria Fathoni 👋
 
 
-- ✍ Student of Polytechnic State of Semarang
-- 👀 I’m interested in Web and Mobile Apps 
-- 🌱 I’m currently learning Python, Javascript, Dart 
+- 🎓 &nbsp; Student at Polytechnic State of Semarang
+- 👀 &nbsp; I’m interested in Web and Mobile Apps 
+- 🌱 &nbsp; I’m currently learning Python, Javascript, Dart 
 
 ### Connect with me:
 
