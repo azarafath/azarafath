@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Student at Polytechnic State of Semarang
 - 👀 &nbsp; I’m interested in Web and Mobile Apps 
-- 🌱 &nbsp; I’m currently learning Python, Javascript, Dart 
+- 🌱 &nbsp; I’m currently learning Flutter, Dart 
 
 ### Connect with me:
 
