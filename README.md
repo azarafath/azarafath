@@ -3,8 +3,8 @@
 
 
 - 🎓 &nbsp; Student at Polytechnic State of Semarang
-- 👀 &nbsp; I’m interested in Mobile Apps, Web and Desktop
-- 🌱 &nbsp; I’m currently learning Flutter-Dart 
+- 👀 &nbsp; I’m interested in AI, Mobile Apps, Web and Desktop
+- 🌱 &nbsp; I’m currently learning Artificial Intelegence and Flutter-Dart 
 
 ### Connect with me:
 
