@@ -19,9 +19,17 @@
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br />
 <br />
+
+### Badges
+<img align="left" alt="Google IT Support" width="70px" src="https://user-images.githubusercontent.com/60414357/172564520-1095a496-c760-4fb3-92a2-f78cf1d4eaff.png" />
+
+\
+<br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azarafath&label=Profile%20views&color=0e75b6&style=flat" alt="azarafath" /> </p>
 <p align="left">
 <a href="https://github.com/azarafath">
   <img align="left" alt="azarafath" src="https://github-readme-stats.vercel.app/api?username=azarafath&show_icons=true&hide_border=true" />
 </a>
 </p>
+
