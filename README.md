@@ -2,7 +2,6 @@
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-- 🎓 &nbsp; Student at Polytechnic State of Semarang
 - 👀 &nbsp; I’m interested in AI, Mobile Apps, Web and Desktop
 - 🌱 &nbsp; I’m currently learning Artificial Intelegence and Flutter-Dart 
 
